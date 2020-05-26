@@ -6,7 +6,7 @@ The goal of this project was to develop Deep Learning Models to recognize Handwr
 
 ## Dataset 
 
-For this project, we used the publically available dataset ["IAM Handwriting Database"](www.fki.inf.unibe.ch/databases/iam-handwriting-database). It contains:
+For this project, we used the publically available dataset ["IAM Handwriting Database"](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database). It contains:
 
 - 1539 pages of scanned text
 - 13353 labelled text lines
