@@ -19,6 +19,4 @@ We focussed on the text lines.
 - Discarded badly formed lines
 - Convert to Binary Image
 - Rescaling the Image keeping same aspect ratio
--- Finale image dimensions: 64 x 2120 
--- Padding for smaller images
 
