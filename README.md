@@ -20,3 +20,17 @@ We focussed on the text lines.
 - Convert to Binary Image
 - Rescaling the Image keeping same aspect ratio
 
+## Modeling
+
+### Model 1
+
+![](Images/Model1.PNG)
+
+![](Images/Model1_performance.PNG)
+
+### Model 2
+
+![](Images/Model2.PNG)
+
+![](Images/Model2_performance.PNG)
+
